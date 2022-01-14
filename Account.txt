@@ -1,0 +1,9 @@
+dmtung,Hello,1234,01/10/2020,A little things,0
+nmvan,Nguyen Minh Van,1234,01/01/2002,le,0
+ddthanh,Wosi,1724,01/01/2002,wo,0
+huhuhu,,1234,,,0
+thnminh,Tran Huynh Nhat Minh,1911,19/11/2002,Thanh lich,0
+numk1k1,Nam Phan,1234,,Numk1k1 isme,0
+huhuhuhuhuh,,123,,,0
+hello,XINCHAO,1,16/05/2002,Ditme,0
+ahihi,Muahahaha,1,12/12/2002,xinchao,0
